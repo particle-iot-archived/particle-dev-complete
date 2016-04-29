@@ -11,3 +11,11 @@ Installs:
 - particle-dev-release-notes
 - particle-dev-cloud-functions
 - particle-dev-exception-reporting
+
+## Instructions
+
+1. Install [Atom](https://atom.io)
+2. Open menu _Edit_ -> _Preferences_ -> _Install_
+3. Search for _particle-dev-complete_
+4. Select Install
+5. Start developing with Particle!
