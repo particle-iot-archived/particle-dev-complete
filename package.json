@@ -1,0 +1,24 @@
+{
+  "name": "particle-dev-complete",
+  "main": "./lib/particle-dev-complete",
+  "version": "1.0.0",
+  "description": "A meta package to install all the available packages for Particle Dev",
+  "keywords": [
+  ],
+  "repository": "https://github.com/spark/particle-dev-complete",
+  "license": "Apache-2.0",
+  "engines": {
+    "atom": ">=1.0.0"
+  },
+  "dependencies": {
+    "atom-package-deps": "^2.1.3"
+  },
+  "package-deps": [
+    "particle-dev",
+    "particle-dev-cloud-variables",
+    "particle-dev-profiles",
+    "particle-dev-release-notes",
+    "particle-dev-cloud-functions",
+    "particle-dev-exception-reporting"
+  ]
+}
