@@ -16,4 +16,5 @@ Installs:
 2. Open menu _Edit_ -> _Preferences_ -> _Install_
 3. Search for _particle-dev-complete_
 4. Select Install
-5. Start developing with Particle!
+5. After installation finishes, restart Atom. If you see a red bug icon in status bar, click it, then click Rebuild Modules button and Restart Atom again.
+6. Start developing with Particle!
