@@ -1,7 +1,7 @@
 {
   "name": "particle-dev-complete",
   "main": "./lib/particle-dev-complete",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "A meta package to install all the available packages for Particle Dev",
   "keywords": [
   ],
