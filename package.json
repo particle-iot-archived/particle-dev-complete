@@ -14,8 +14,9 @@
   },
   "package-deps": [
     "particle-dev",
+    "particle-dev-cloud-functions",
     "particle-dev-cloud-variables",
     "particle-dev-profiles",
-    "particle-dev-cloud-functions"
+    "particle-dev-libraries"
   ]
 }
