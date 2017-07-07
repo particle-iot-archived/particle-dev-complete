@@ -1,7 +1,7 @@
 {
   "name": "particle-dev-complete",
   "main": "./lib/particle-dev-complete",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A meta package to install all the available packages for Particle Dev",
   "keywords": [],
   "repository": "https://github.com/spark/particle-dev-complete",
