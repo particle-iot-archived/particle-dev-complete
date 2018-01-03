@@ -12,7 +12,7 @@ Installs:
 
 ## Instructions
 
-0. Install [dependencies for your operating system](https://github.com/spark/particle-dev#requirements)
+0. Install [dependencies for your operating system](https://github.com/particle-iot/particle-dev#requirements)
 1. Install [Atom](https://atom.io)
 2. Open menu _Edit_ -> _Preferences_ -> _Install_
 3. Search for _particle-dev-complete_

@@ -4,7 +4,7 @@
   "version": "1.0.2",
   "description": "A meta package to install all the available packages for Particle Dev",
   "keywords": [],
-  "repository": "https://github.com/spark/particle-dev-complete",
+  "repository": "https://github.com/particle-iot/particle-dev-complete",
   "license": "Apache-2.0",
   "engines": {
     "atom": ">=1.0.0"
